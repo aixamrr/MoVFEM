@@ -1,0 +1,21 @@
+Frequency range [Hz], nf
+1
+1.e-1
+(1) Dirichlet  or (0) GPML  Boundary?
+0
+Model for Dirichlet boundary (1) Zero, (2) Homogeneous, (3) Layered
+1
+If Homogeneous model, then assign the conductivity of half-space.
+0.01
+If Layered Model, then assign the number of layers (nl)
+1
+Conductivity of layers (1:nl)
+0.01
+Thickness of Layers (1:nl-1) (in meters)
+5000.
+PML Scheme: (0) hx=h0x(1+bx/(iwe)) (1) hx=1-ibx/(a0+iw) !If Boundary is PML!
+1
+PML Constants: a0,b0,N !If Boundary is PML!
+1.
+1.
+2.
