@@ -1,6 +1,8 @@
 -----------------------------------------
 # MoVFEM_3DMT v1.2
 -----------------------------------------
+Update: This is the original version of the code since 2014. Nothing has changed, just updated the README file.
+
 Multi-order Vector Finite Element Modeling of 3D Magnetotelluric Data. 
 This algorithm is currently set to solve the secondary electric field, 
 from a primary field considered as air. The user is able to choose between
